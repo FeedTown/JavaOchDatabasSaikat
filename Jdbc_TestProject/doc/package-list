@@ -1,0 +1,5 @@
+com.jdbc.main
+com.jdbc.main.manager
+com.jdbc.main.manager.studentTable
+com.jdbc.main.manager.subjectTable
+com.jdbc.main.manager.teacherTable
